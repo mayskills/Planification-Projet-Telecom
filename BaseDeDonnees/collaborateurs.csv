@@ -1,0 +1,31 @@
+id_collab,nom,prenom,competence_principale,taux_journalier,cout_interne,date_entree,localisation
+1,Diop,Moussa,Chef de Projet Radio,750,525,2023-03-15,Dakar
+2,Sow,Aminata,Ingénieur Optimisation,680,476,2022-07-10,Thiès
+3,Ndiaye,Omar,Technicien Intégration,520,364,2024-01-20,Dakar
+4,Fall,Khady,Coordinateur Déploiement,600,420,2022-11-05,Kaolack
+5,Ba,Ibrahima,Expert Transmission FH,780,546,2023-06-12,Saint-Louis
+6,Seck,Mariama,Chef de Projet Génie Civil,720,504,2022-02-18,Touba
+7,Gueye,Abdou,Technicien Intégration,500,350,2024-05-10,Dakar
+8,Ndour,Fatou,Ingénieur Optimisation,650,455,2023-08-01,Thiès
+9,Diallo,Cheikh,Expert Transmission FH,800,560,2022-09-23,Dakar
+10,Sarr,Awa,Coordinateur Déploiement,580,406,2023-04-14,Kaolack
+11,Faye,Ousmane,Chef de Projet Radio,770,539,2022-12-30,Saint-Louis
+12,Thiam,Rokhaya,Technicien Intégration,510,357,2024-02-11,Dakar
+13,Niane,Mamadou,Ingénieur Optimisation,690,483,2023-01-09,Thiès
+14,Cisse,Adama,Chef de Projet Génie Civil,740,518,2022-05-20,Touba
+15,Lo,Astou,Coordinateur Déploiement,610,427,2023-07-07,Dakar
+16,Ka,Babacar,Expert Transmission FH,790,553,2022-08-16,Saint-Louis
+17,Diagne,Seynabou,Technicien Intégration,530,371,2024-03-03,Kaolack
+18,Toure,Modou,Chef de Projet Radio,760,532,2023-09-21,Dakar
+19,Sy,Aissatou,Ingénieur Optimisation,670,469,2022-10-11,Thiès
+20,Barry,Amadou,Expert Transmission FH,780,546,2023-02-28,Touba
+21,Niang,Ndèye,Coordinateur Déploiement,590,413,2022-06-06,Dakar
+22,Sané,Alioune,Chef de Projet Génie Civil,730,511,2023-05-19,Kaolack
+23,Diouf,Serigne,Technicien Intégration,540,378,2024-04-25,Saint-Louis
+24,Kane,Maimouna,Ingénieur Optimisation,700,490,2022-03-13,Dakar
+25,Ndoye,Issa,Expert Transmission FH,770,539,2023-11-08,Thiès
+26,Balde,Moussa,Coordinateur Déploiement,620,434,2022-01-25,Touba
+27,Fofana,Adja,Chef de Projet Radio,750,525,2023-12-02,Dakar
+28,Deme,Cheikh,Technicien Intégration,560,392,2024-06-15,Kaolack
+29,Samb,Khady,Chef de Projet Génie Civil,720,504,2022-04-17,Saint-Louis
+30,Coly,Oumar,Ingénieur Optimisation,680,476,2023-10-29,Dakar

@@ -1,0 +1,9 @@
+id_projet,nom_projet,client,date_debut_prev,date_fin_prev,budget_jh,statut
+PRJ01,Rollout 5G Dakar,Orange SN,2026-03-05,2026-08-05,1200,Planifié
+PRJ02,Swap Nokia Région Centre,Free SN,2026-03-12,2026-09-12,900,Planifié
+PRJ03,Densification 4G Ouest,Sonatel,2026-03-20,2026-07-20,800,Planifié
+PRJ04,Déploiement FTTH Thiès,Expresso,2026-01-15,2026-05-15,600,En cours
+PRJ05,Modernisation Backbone FH,Yas SN,2026-02-10,2026-07-10,700,Planifié
+PRJ06,Extension Couverture 4G Nord,Orange SN,2026-04-01,2026-10-01,1000,Planifié
+PRJ07,Upgrade Réseau IP Core,Free SN,2026-05-05,2026-09-05,500,Planifié
+PRJ08,Déploiement Sites Ruraux,Sonatel,2026-06-01,2026-12-01,1300,Planifié
