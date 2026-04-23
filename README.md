@@ -29,7 +29,7 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 
 ### 📌 Tables principales
 
-#### 👤 `collaborateurs`
+#### 🙌 `collaborateurs`
 - `id_collab` (PK)
 - nom, prenom
 - competence_principale
@@ -89,7 +89,7 @@ Ce projet permet de répondre à plusieurs problématiques clés :
 
 - 💰 Calcul du **budget total des projets (en JH)**  
 - ⚠️ Détection des **collaborateurs sur-alloués (>100%) en avril 2026**  
-- 🧑‍💼 Identification du **collaborateur le plus sollicité**  
+- 👩🏿 Identification du **collaborateur le plus sollicité**  
 - 🔄 Détection des **conflits entre congés et affectations**  
 - 📊 Analyse de la **charge par projet**
 
