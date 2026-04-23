@@ -79,7 +79,7 @@ Voici quelques-unes des questions auxquelles ce projet répond (consultez le fic
 
 Data Analyst / Coordinatrise SIG
 Projet basé sur des données généré par IA adapté au contexte Sénégal
-Vous pouvez m'envoyer un mail à [mounas286@gmail.com]
+Vous pouvez m'envoyer un mail à mounas286@gmail.com
 
  ## ⭐ Si ce projet t’inspire
 
