@@ -41,7 +41,7 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 #### 📁 `projets`
 - `id_projet` (PK)
 - nom_projet
-- client (Orange SN, Free SN, Expresso, Yas SN)
+- client (Orange SN, Expresso, Yas SN)
 - date_debut_prev, date_fin_prev
 - budget_jh
 - statut
