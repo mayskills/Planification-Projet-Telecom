@@ -61,7 +61,7 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 - Un **projet** peut avoir plusieurs **collaborateurs**
 - Un **collaborateur** peut avoir plusieurs **congés**
 
-  ![Diagramme ERD](img/ERD.png)
+  ![Diagramme ERD](img/ERD.svg)
 
 ## Base de données et outils
 
