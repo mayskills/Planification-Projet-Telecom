@@ -59,4 +59,10 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 
 - Un **collaborateur** peut avoir plusieurs **affectations**
 - Un **projet** peut avoir plusieurs **collaborateurs**
-- Un **collaborateur** peut avoir plusieurs **congés**
+- Un **collaborateur** peut avoir plusieurs **congés
+
+```mermaid
+erDiagram
+COLLABORATEURS ||--o{ AFFECTATIONS : "affecté"
+PROJETS ||--o{ AFFECTATIONS : "contient"
+COLLABORATEURS ||--o{ CONGES : "prend"
