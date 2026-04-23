@@ -66,3 +66,8 @@ erDiagram
 COLLABORATEURS ||--o{ AFFECTATIONS : "affecté"
 PROJETS ||--o{ AFFECTATIONS : "contient"
 COLLABORATEURS ||--o{ CONGES : "prend"
+
+## Base de données et outils
+
+- **PostgreSQL**
+- **Visual Studio Code**
