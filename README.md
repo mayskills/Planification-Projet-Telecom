@@ -111,7 +111,7 @@ Des cas de **sur-allocation (>100%)** ont été volontairement introduits en **a
 ## 👤 Auteur
 
 **Data Analyst / Coordinatrice SIG**  
-Projet basé sur des données simulées adaptées au contexte télécom au Sénégal 🇸🇳  
+Projet basé sur des données simulées adaptées au contexte télécom au Sénégal
 
 📧 Contact : [mounas286@gmail.com](mailto:mounas286@gmail.com)
 
