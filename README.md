@@ -62,11 +62,14 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 - Un **collaborateur** peut avoir plusieurs **congés**
 
   ![Diagramme ERD](img/ERD.svg)
+  
 
 ## Base de données et outils
 
-- **PostgreSQL**
-- **Visual Studio Code**
+- 🗄️ **PostgreSQL** — Gestion et modélisation de la base de données  
+- 💻 **Visual Studio Code** — Développement et exécution des scripts SQL  
+- 📊 [Créer un diagramme ERD avec dbdiagram.io](https://dbdiagram.io) — Modélisation visuelle des relations entre tables  
+- 🤖 **Données générées par IA** — Simulation de cas réels (sur-allocation, conflits de planning)
 
 ## Réponses aux questions
 
@@ -80,7 +83,7 @@ Voici quelques-unes des questions auxquelles ce projet répond (consultez le fic
  ## 👤 Auteur
 
 Data Analyst / Coordinatrise SIG
-Projet basé sur des données généré par IA adapté au contexte Sénégal
+Projet basé sur des données adapté au contexte Sénégal
 Vous pouvez m'envoyer un mail à mounas286@gmail.com
 
  ## ⭐ Si ce projet t’inspire
