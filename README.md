@@ -70,16 +70,17 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 
 📊 Le modèle de données intègre la gestion des **contraintes temporelles** (affectations vs congés) afin d’analyser la capacité réelle des ressources.
 
+
 ![Diagramme ERD](img/ERD.svg)
 
 ---
 
 ## 🛠️ Base de données et outils
 
-- 🗄️ **PostgreSQL** — Stockage et modélisation des données  
-- 💻 **Visual Studio Code** — Développement et exécution des scripts SQL  
-- 📊 [Créer un diagramme ERD avec dbdiagram.io](https://dbdiagram.io) — Visualisation du modèle relationnel  
-- 🤖 **Données générées par IA** — Simulation de cas métier réalistes (sur-allocation, conflits de planning)
+- **PostgreSQL** — Stockage et modélisation des données  
+- **Visual Studio Code** — Développement et exécution des scripts SQL  
+- [Créer un diagramme ERD avec dbdiagram.io](https://dbdiagram.io) — Visualisation du modèle relationnel  
+- **Données générées par IA** — Simulation de cas métier réalistes (sur-allocation, conflits de planning)
 
 ---
 
@@ -87,14 +88,14 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 
 Ce projet permet de répondre à plusieurs problématiques clés :
 
-- 💰 Calcul du **budget total des projets (en JH)**  
-- ⚠️ Détection des **collaborateurs sur-alloués (>100%) en avril 2026**  
-- 👩🏿 Identification du **collaborateur le plus sollicité**  
-- 🔄 Détection des **conflits entre congés et affectations**  
-- 📊 Analyse de la **charge par projet**
+-  Calcul du **budget total des projets (en JH)**  
+-  Détection des **collaborateurs sur-alloués (>100%) en avril 2026**  
+-  Identification du **collaborateur le plus sollicité**  
+-  Détection des **conflits entre congés et affectations**  
+-  Analyse de la **charge par projet**
 
 👉 L’ensemble des requêtes est disponible dans :  
-📜 [planification_telecom_sn.session.sql](planification_telecom_sn.session.sql)
+    [planification_telecom_sn.session.sql](planification_telecom_sn.session.sql)
 
 ---
 
