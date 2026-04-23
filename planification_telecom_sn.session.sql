@@ -2,7 +2,7 @@
 -- Table Collaborateurs
 
 CREATE TABLE collaborateurs (
-    id_collab SERIAL PRIMARY KEY, -- identifiant collaborateu
+    id_collab SERIAL PRIMARY KEY, -- identifiant collaborateur
     nom VARCHAR(50), -- nom collaborateur
     prenom VARCHAR(50), -- prénom collaborateur
     competence_principale VARCHAR(100), 
@@ -127,15 +127,7 @@ GROUP BY id_collab
 HAVING SUM(pct_allocation) > 100;
 
  -- g. Trouver le collaborateur avec la plus forte allocation
-
  
-SELECT C.id_collab , C.prenom, C.nom, SUM(A.pct_allocation) AS total_allocation
-FROM collaborateurs C
-INNER JOIN affectations A ON C.id_collab = A.id_collab
-GROUP BY C.id_collab
-ORDER BY total_allocation DESC
-LIMIT 1;
-
 SELECT 
     id_collab,
     SUM(pct_allocation) AS total_allocation
