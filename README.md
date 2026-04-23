@@ -9,7 +9,7 @@ Ce projet vise à analyser la charge des équipes projet télécom au Sénégal 
 - Optimiser la **planification des ressources humaines**
 - Améliorer la **rentabilité des projets**
 
-## 🧠 Contexte métier
+## Contexte métier
 
 Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planification capacitaire est essentielle :
 
