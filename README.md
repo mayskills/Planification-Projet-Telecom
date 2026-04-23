@@ -61,13 +61,16 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 - Un **projet** peut avoir plusieurs **collaborateurs**
 - Un **collaborateur** peut avoir plusieurs **congés**
 
-```mermaid
-erDiagram
-COLLABORATEURS ||--o{ AFFECTATIONS : "affecté"
-PROJETS ||--o{ AFFECTATIONS : "contient"
-COLLABORATEURS ||--o{ CONGES : "prend"
-
 ## Base de données et outils
 
 - **PostgreSQL**
 - **Visual Studio Code**
+
+## Réponses aux questions
+
+Voici quelques-unes des questions auxquelles ce projet répond (consultez le fichier [postgres.session.sql](https://github.com/mayskills/Planification-Projet-Telecom/edit/main/postgres.session.sql) pour les autres)
+
+- Trouver le budget total (en JH) de tous les projets ?
+- Identifier les collaborateurs affectés à plus de 100% en avril 2026 ?
+- Trouver le collaborateur avec la plus forte allocation ?
+- Identifier les collaborateurs en congé et affectés sur un projet en même temps ?
