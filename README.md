@@ -41,7 +41,7 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 - budget_jh
 - statut
 
-#### 'affectations'
+#### `affectations`
 - `id_affect` (PK)
 - `id_collab` (FK → collaborateurs)
 - `id_projet` (FK → projets)
@@ -49,7 +49,7 @@ Dans les projets télécom (déploiement réseau, fibre, 4G/5G), la planificatio
 - pct_allocation
 - role_projet
 
-#### conges
+#### `conges`
 - `id_conge` (PK)
 - `id_collab` (FK → collaborateurs)
 - date_debut, date_fin
