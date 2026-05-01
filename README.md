@@ -128,4 +128,4 @@ N’hésite pas à :
   
   ---
 
-###  🏠 Précedent : [Portfolio](https://mayskills.github.io/portfolio/)
+###  🏠 Précédent : [Portfolio](https://mayskills.github.io/portfolio/)
